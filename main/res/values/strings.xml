@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Genshin Impact</string>
+
+    <string name="character_name_hint">Enter a name for the character.</string>
+    <string name="character_name_label">Name</string>
+    <string name="delete_character_button_label">Delete</string>
+    <string name="character_details_label">Details</string>
+    <string name="character_pyro_label">Pyro</string>
+    <string name="character_hydro_label">Hydro</string>
+    <string name="character_electro_label">Electro</string>
+    <string name="character_geo_label">Geo</string>
+    <string name="character_anemo_label">Anemo</string>
+    <string name="character_cryo_label">Cryo</string>
+    <string name="character_dendro_label">Dendro</string>
+    <string name="character_photo_button_description">Take photo of character scene</string>
+    <string name="character_photo_no_image_description">Character scene photo (not set)</string>
+    <string name="character_photo_image_description">Character scene photo (set)</string>
+    <string name="new_character">New Character</string>
+    <string name="character_time_text">Select Time</string>
+    <string name="character_owner_text">Choose Owner</string>
+    <string name="character_report_text">Share your Character !</string>
+    <string name="cancel">Cancel</string>
+    <string name="character_report">%1s!
+    The character was obtained on %2$s. %3$s, and %4$s
+    </string>
+    <string name="character_report_pyro">The character has pyro element</string>
+    <string name="character_report_hydro">The character has hydro element</string>
+    <string name="character_report_electro">The character has electro element</string>
+    <string name="character_report_geo">The character has geo element</string>
+    <string name="character_report_anemo">The character has anemo element</string>
+    <string name="character_report_cryo">The character has cryo element</string>
+    <string name="character_report_dendro">The character has dendro element</string>
+    <string name="character_report_noElement">The element of the character has not been chosen</string>
+    <string name="character_report_noOwner">There is no owner</string>
+    <string name="character_report_owner">The owner is %s.</string>
+    <string name="character_report_subject">GenshinImpact Character Report</string>
+    <string name="send_report">Send character report via</string>
+</resources>
